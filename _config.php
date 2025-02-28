@@ -1,9 +1,9 @@
 <?php
 
-
-const THEME = 'lightspeed';
+const THEME = 'tema1';
 
 const LANG='es-ES';                    
+
 const TITULOSITE ='Fontaneria Manolin'; 
 
 

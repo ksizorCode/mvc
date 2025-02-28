@@ -1,7 +1,7 @@
 </main>
 <footer>
     <p>&copy; Copyright <?=TITULOSITE?>
-    <? //menu()?>
+    <? menu()?>
 </footer>
 </body>
 </html>

@@ -1,4 +1,5 @@
 <?php require '_config.php'?>
+<? const TITULOAPARTADO ='Servicios de Fontanería'; ?>
 <?php get_header()?>
 
 
